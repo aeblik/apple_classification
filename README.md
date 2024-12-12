@@ -1,6 +1,6 @@
 # Apple Classification using 3D Point Cloud Data
 
-This repository contains code and utilities for the automated classification of apple varieties using LiDAR-captured 3D point cloud data. The primary goal is to extract meaningful geometric and morphological features and use them for training and evaluating machine learning models. 
+This repository contains code and utilities for the automated classification of apple varieties using LiDAR-captured 3D point cloud data. The primary goal is to extract meaningful geometric and morphological features and use them for training and evaluating machine learning models. The point cloud files used for the project are not provided in this repository.
 
 ## Repository Structure
 
