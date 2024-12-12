@@ -30,7 +30,7 @@ This repository contains code and utilities for the automated classification of 
 Ensure your directory structure aligns with the expected process outlined in the `process_pcds_and_extract_features` function in the **`utils_FE`** module. This is critical for proper feature extraction and visualization.
 
 ### Dependencies
-All required Python libraries are listed in the `requirements.txt` file. Please install them using:
+All required Python libraries are listed in the `requirements.txt` file. It is crucial to use numpy version 1.24.0, to be compatible with open3d, yet it can lead to some bugs when using seaborn. Please install them using:
 
 ```bash
 pip install -r requirements.txt
